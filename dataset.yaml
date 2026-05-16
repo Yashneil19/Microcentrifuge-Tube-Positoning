@@ -1,0 +1,5 @@
+path: e:\Zeon_Systems\TubeDetectionDataset_ZeonSystems2026\old\data
+train: images/train
+val: images/train
+names:
+  0: tube

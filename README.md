@@ -1,7 +1,4 @@
 # Tube Detection
-## Data
-
-Everything you need is in the `data/` folder.
 
 ### Images
 

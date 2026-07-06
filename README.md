@@ -1,19 +1,4 @@
-# Tube Detection Take-Home Assignment
-
-## Problem
-
-You are given a dataset of **70 overhead RGB images** (640x480 pixels) of microcentrifuge tubes on various surfaces. Each image contains between 3 and 6 tubes.
-
-**Ground truth annotations** are provided for all images: the center position and rotation angle of each tube lid.
-
-Your job:
-
-1. Build a system that detects tube positions and orientations in the images.
-2. Evaluate your system's performance against the ground truth.
-3. Report and analyze your results.
-
----
-
+# Tube Detection
 ## Data
 
 Everything you need is in the `data/` folder.
@@ -48,23 +33,6 @@ Each image is an overhead photo of a surface with microcentrifuge tubes. The num
 - Angles increase **counter-clockwise**.
 - Rotation angle of the tube is defined by the direction of the joint to the tab.
 
----
-
-## Submission
-
-Submit your work through the **Google Form** (link provided separately).
-
-You will need to provide:
-
-- Public GitHub link
-- Description of your approach
-- Your reported metrics (precision, recall, F1, angle error)
-- Your written analysis and next-steps proposal
-- How you used AI
-
----
-
-## Rules
 
 - Any programming language. Any libraries.
 - AI coding tools are allowed.

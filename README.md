@@ -30,8 +30,3 @@ Each image is an overhead photo of a surface with microcentrifuge tubes. The num
 - Angles increase **counter-clockwise**.
 - Rotation angle of the tube is defined by the direction of the joint to the tab.
 
-
-- Any programming language. Any libraries.
-- AI coding tools are allowed.
-- Your written analysis should be your own thinking.
-- Work independently.
